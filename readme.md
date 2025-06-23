@@ -18,7 +18,7 @@ A simple, interactive web app to manage guests attending an event. Users can add
 
 ## Live Demo
 
-🔗 [View the live site here](https://irenemurage.github.io/Event-Guest-List-Manager/)  
+🔗 Here is the [github live site](https://irenemurage.github.io/Event-Guest-List-Manager/)  
 
 ## Setup Instructions
 
