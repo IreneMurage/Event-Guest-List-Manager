@@ -31,3 +31,9 @@ button {
 button:hover{
     background-color: mediumseagreen;
 }
+
+#guest-category{
+  padding: 10px 15px;
+  margin-left: 5px;
+
+}
